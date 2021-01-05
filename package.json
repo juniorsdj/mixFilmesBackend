@@ -12,7 +12,7 @@
     "url": "https://github.com/juniorsdj/minicurso/issues"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "mongodb": "^2.2.33",
